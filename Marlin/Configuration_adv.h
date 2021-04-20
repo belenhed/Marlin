@@ -2067,7 +2067,7 @@
  *
  * Override the default value based on the driver type set in Configuration.h.
  */
-#define MAXIMUM_STEPPER_RATE 5000000
+//#define MAXIMUM_STEPPER_RATE 5000000
 
 // @section temperature
 
